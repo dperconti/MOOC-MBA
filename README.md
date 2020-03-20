@@ -87,7 +87,7 @@ Path to a free self-taught education in Business
 | | [Microeconomics](https://www.edx.org/course/microeconomics) | MIT Sloan | [edx.org](https://www.edx.org) | FREE |
 
 | Legal | | | | |
-| --- | --- | - --- |-- | --- |
+| --- | --- | --- | --- | --- |
 | | [Making Successful Decisions through the Strategy, Law & Ethics Model](https://www.coursera.org/learn/strategy-law-ethics) | Ross School of Business - University of Michigan | [coursera](https://www.coursera.org) | Coursera Plus - $399 / year |
 | | [Global Impact: Business Ethics](https://www.coursera.org/learn/business-ethics) | University of Illinois - Urbana-Champaign | [coursera](https://www.coursera.org) | Coursera Plus - $399 / year |
 | | [Patent Law](https://www.coursera.org/learn/patents) | Wharton School of the University of Pennsylvania | [coursera](https://www.coursera.org) | Coursera Plus - $399 / year |
